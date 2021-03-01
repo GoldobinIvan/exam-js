@@ -1,0 +1,81 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Иван",
+      "surname": "Иванов",
+      "patronymic": "Иванович",
+      "phone": 8916344469,
+      "email": "ivan@gmail.com",
+      "birthday": "2000-01-01",
+      "group": "181",
+      "direction": 0
+    },
+    {
+      "name": "Петр",
+      "surname": "Петрович",
+      "patronymic": "Петрович",
+      "phone": 789995567,
+      "email": "petr@gmail.com",
+      "birthday": "1976-09-15",
+      "direction": 1,
+      "group": "191",
+      "id": 3
+    },
+    {
+      "name": "Иван",
+      "surname": "Голдобин",
+      "patronymic": "Викторович",
+      "phone": 11253612,
+      "email": "goldobin@gmail.com",
+      "birthday": "1997-06-12",
+      "direction": 0,
+      "group": "181",
+      "id": 4
+    },
+    {
+      "name": "ghj",
+      "surname": "ds",
+      "patronymic": "ds",
+      "phone": "54",
+      "email": "dsc",
+      "birthday": "2021-04-01",
+      "direction": 1,
+      "group": "sdc",
+      "id": 6
+    },
+    {
+      "name": "gg",
+      "surname": "s",
+      "patronymic": "s",
+      "phone": "s",
+      "email": "ss",
+      "birthday": "2021-03-25",
+      "direction": 1,
+      "group": "22",
+      "id": 7
+    },
+    {
+      "name": null,
+      "surname": null,
+      "patronymic": null,
+      "phone": null,
+      "email": null,
+      "birthday": null,
+      "direction": 0,
+      "group": null,
+      "id": 8
+    },
+    {
+      "name": null,
+      "surname": "ми",
+      "patronymic": null,
+      "phone": null,
+      "email": null,
+      "birthday": null,
+      "direction": 0,
+      "group": null,
+      "id": 9
+    }
+  ]
+}
